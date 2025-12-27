@@ -1,1 +1,2 @@
 hii world
+s the global home for all developers, GitHub is the complete AI-powered developer platform to build, scale, and deliver secure software
